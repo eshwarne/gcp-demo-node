@@ -1,0 +1,15 @@
+{
+  "name": "gcp-projects",
+  "version": "1.0.0",
+  "description": "a test node app for gke on gcp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gcp",
+    "node"
+  ],
+  "author": "eshwar sundar",
+  "license": "ISC"
+}
